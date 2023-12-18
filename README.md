@@ -10,3 +10,7 @@ LexGLUE: A Benchmark Dataset for Legal Language Understanding in English [LINK](
 LEGAL-BERT: The Muppets straight out of Law School [LINK](https://aclanthology.org/2020.findings-emnlp.261.pdf)  
 
 FedJudge: Federated Legal Large Language Model in Chinese [LINK](https://github.com/yuelinan/FedJudge)
+
+
+# 법률 영단어
+[LINK](https://m.blog.naver.com/inter-post/220645074509)
