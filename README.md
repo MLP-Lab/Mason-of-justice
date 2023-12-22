@@ -3,7 +3,7 @@
 [LINK](https://github.com/Jeryi-Sun/LLM-and-Law)
 
 
-[LINK](https://github.com/thunlp/LegalPapers)
+[Must-read Papers on Legal Intelligence](https://github.com/thunlp/LegalPapers)
 ##  Dataset & Benchmark
 ### English
 LexGLUE: A Benchmark Dataset for Legal Language Understanding in English [LINK](https://arxiv.org/abs/2110.00976)
