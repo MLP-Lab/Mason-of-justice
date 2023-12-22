@@ -1,6 +1,6 @@
 # 한동훈 게 섯거라.
 ## BaseGithub
-[LINK](https://github.com/Jeryi-Sun/LLM-and-Law)
+[LLM-and-Law](https://github.com/Jeryi-Sun/LLM-and-Law)
 
 
 [Must-read Papers on Legal Intelligence](https://github.com/thunlp/LegalPapers)
