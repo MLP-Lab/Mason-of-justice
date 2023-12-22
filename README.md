@@ -1,7 +1,7 @@
 # 한동훈 게 섯거라.
 ## BaseGithub
 [LINK](https://github.com/Jeryi-Sun/LLM-and-Law)
-
+[LINK](https://github.com/thunlp/LegalPapers)
 ##  Dataset & Benchmark
 ### English
 LexGLUE: A Benchmark Dataset for Legal Language Understanding in English [LINK](https://arxiv.org/abs/2110.00976)
